@@ -2,12 +2,12 @@
 #include <string>
 #include <memory>
 #include <vector>
-#include "../include/Models/Sensor.h"
-#include "../include/Models/TrafficSensor.h"
-#include "../include/Models/PollutionSensor.h"
-#include "../include/Models/NoiseSensor.h"
-#include "../include/Simulation/CitySimulation.h"
-#include "../include/Visualization/CityVisualizer.h"
+#include "../../include/Models/Sensor.h"
+#include "../../include/Models/TrafficSensor.h"
+#include "../../include/Models/PollutionSensor.h"
+#include "../../include/Models/NoiseSensor.h"
+#include "../../include/Simulation/CitySimulation.h"
+#include "../../include/Visualization/CityVisualizer.h"
 
 void displayMenu() {
     std::cout << "\n===== Smart City Data Analytics Platform =====\n";

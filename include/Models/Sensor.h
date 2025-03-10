@@ -3,7 +3,7 @@
 
 #include <string>
 #include <vector>
-#include "../DataStructures/LinkedList.h"
+#include "DataStructures/LinkedList.h"
 
 // Forward declaration
 class Reading;
